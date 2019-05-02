@@ -1,2 +1,2 @@
 # PLAISIR-WEBSITE
-Plaisir's Personal HTML ans CSS website project
+Plaisir's Personal HTML and CSS website project

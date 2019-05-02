@@ -1,0 +1,29 @@
+.profile-picture{border-radius: 90%;}
+body{display: flex;
+align-items: center;
+justify-content: center;  
+height: 100%;
+margin: 50px;
+padding: 0px;}
+
+.wrapper{
+    background-color: lightblue;
+    max-width: 50%;
+    display: flex;
+    flex-direction: row;
+    height: 80%;
+}
+
+.left, .right{
+    background-color: lightblue;
+    margin: 3px;
+    max-width: 50%;
+    flex: 1;
+}
+.social-links{list-style: none;
+    padding-left: 0px; 
+    font-size: 18px;}
+.social-links li{ margin-right: 8px;
+    display: inline-block;}
+.social-links a{text-decoration: none;}
+.body{background: linear-gradient(to bottom, rgba(231, 240, 245))}
